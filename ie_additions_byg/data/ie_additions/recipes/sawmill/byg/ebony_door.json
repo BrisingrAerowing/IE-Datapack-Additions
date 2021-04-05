@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "byg:ebony_planks"
+    },
+    "input": {
+      "item": "byg:ebony_door"
+    },
+    "energy": 800
+  }

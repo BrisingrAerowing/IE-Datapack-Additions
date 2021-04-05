@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "betterend:tenanea_planks"
+    },
+    "input": {
+      "item": "betterend:tenanea_door"
+    },
+    "energy": 800
+  }

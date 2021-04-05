@@ -1,0 +1,33 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": true
+      },
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "environmental:wisteria_planks",
+      "count": 6
+    },
+    "energy": 1600,
+    "input": [
+      {
+        "item": "environmental:wisteria_log"
+      },
+      {
+        "item": "environmental:wisteria_wood"
+      }
+    ],
+    "stripped": {
+      "item": "environmental:stripped_wisteria_log"
+    }
+  }

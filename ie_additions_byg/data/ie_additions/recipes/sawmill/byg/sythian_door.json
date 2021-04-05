@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "byg:sythian_planks"
+    },
+    "input": {
+      "item": "byg:sythian_door"
+    },
+    "energy": 800
+  }

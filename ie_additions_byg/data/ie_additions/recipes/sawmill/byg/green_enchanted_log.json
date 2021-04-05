@@ -1,0 +1,33 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": true
+      },
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "byg:green_enchanted_planks",
+      "count": 6
+    },
+    "energy": 1600,
+    "input": [
+      {
+        "item": "byg:green_enchanted_log"
+      },
+      {
+        "item": "byg:green_enchanted_wood"
+      }
+    ],
+    "stripped": {
+      "item": "byg:stripped_green_enchanted_log"
+    }
+  }

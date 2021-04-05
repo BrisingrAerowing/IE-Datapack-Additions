@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "byg:imbued_nightshade_planks"
+    },
+    "input": {
+      "item": "byg:imbued_nightshade_door"
+    },
+    "energy": 800
+  }

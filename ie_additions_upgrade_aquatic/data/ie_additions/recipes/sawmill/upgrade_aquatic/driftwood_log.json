@@ -1,0 +1,33 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": true
+      },
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "upgrade_aquatic:driftwood_planks",
+      "count": 6
+    },
+    "energy": 1600,
+    "input": [
+      {
+        "item": "upgrade_aquatic:driftwood_log"
+      },
+      {
+        "item": "upgrade_aquatic:driftwood"
+      }
+    ],
+    "stripped": {
+      "item": "upgrade_aquatic:stripped_driftwood_log"
+    }
+  }

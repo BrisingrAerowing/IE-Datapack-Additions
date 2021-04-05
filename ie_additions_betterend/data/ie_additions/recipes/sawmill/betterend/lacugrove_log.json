@@ -1,0 +1,30 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": true
+      },
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "betterend:lacugrove_planks",
+      "count": 6
+    },
+    "energy": 1600,
+    "input": [
+      {
+        "item": "betterend:lacugrove_log"
+      }
+    ],
+    "stripped": {
+      "item": "betterend:lacugrove_stripped_log"
+    }
+  }

@@ -1,0 +1,33 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": true
+      },
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "byg:baobab_planks",
+      "count": 6
+    },
+    "energy": 1600,
+    "input": [
+      {
+        "item": "byg:baobab_log"
+      },
+      {
+        "item": "byg:baobab_wood"
+      }
+    ],
+    "stripped": {
+      "item": "byg:stripped_baobab_log"
+    }
+  }

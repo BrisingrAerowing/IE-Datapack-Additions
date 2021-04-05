@@ -1,0 +1,30 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": true
+      },
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "betterend:pythadendron_planks",
+      "count": 6
+    },
+    "energy": 1600,
+    "input": [
+      {
+        "item": "betterend:pythadendron_log"
+      }
+    ],
+    "stripped": {
+      "item": "betterend:pythadendron_stripped_log"
+    }
+  }

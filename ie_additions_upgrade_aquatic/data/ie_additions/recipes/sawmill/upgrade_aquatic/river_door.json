@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "upgrade_aquatic:river_planks"
+    },
+    "input": {
+      "item": "upgrade_aquatic:river_door"
+    },
+    "energy": 800
+  }

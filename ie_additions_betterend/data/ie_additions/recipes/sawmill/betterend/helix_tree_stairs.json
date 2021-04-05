@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "betterend:helix_tree_planks"
+    },
+    "input": {
+      "item": "betterend:helix_tree_stairs"
+    },
+    "energy": 1600
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:sawmill",
+    "secondaries": [
+      {
+        "output": {
+          "tag": "forge:dusts/wood"
+        },
+        "stripping": false
+      }
+    ],
+    "result": {
+      "item": "byg:palo_verde_planks"
+    },
+    "input": {
+      "item": "byg:palo_verde_door"
+    },
+    "energy": 800
+  }
